@@ -10,7 +10,6 @@
 [![Discord](https://img.shields.io/badge/-000000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/1421169141397852180)
 
 # 💻 Tech Stack:
-## Tech Stack
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![Flask](https://skillicons.dev/icons?i=flask)
