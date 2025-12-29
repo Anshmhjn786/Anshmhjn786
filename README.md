@@ -5,9 +5,9 @@
 ## 🌐 Socials:
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/Ansh-Mahajan)
-[![Gmail](https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anshmhjn7860@gmail.com)
-[![Discord](https://img.shields.io/badge/-000000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/1421169141397852180)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/ansh-mahajan-120a3a357)
+[![Gmail](https://skillicons.dev/icons?i=Gmail)](mailto:anshmhjn7860@gmail.com)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1421169141397852180)
 
 # 💻 Tech Stack:
 
