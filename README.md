@@ -19,6 +19,20 @@
 ![Pandas](https://skillicons.dev/icons?i=pandas)
 ![Matplotlib](https://skillicons.dev/icons?i=matplotlib)
 
+## Network Designing/Diagraming
+![Cisco](https://img.shields.io/badge/-000000?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![Wireshark](https://img.shields.io/badge/-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Lucidchart](https://img.shields.io/badge/-000000?style=for-the-badge&logo=lucidchart&logoColor=F7B500)
+![Figma](https://img.shields.io/badge/-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Canva](https://img.shields.io/badge/-000000?style=for-the-badge&logo=canva&logoColor=00C4CC)
+
+## AI Tools
+![OpenAI](https://img.shields.io/badge/-000000?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-000000?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Keras](https://img.shields.io/badge/-000000?style=for-the-badge&logo=keras&logoColor=D00000)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anshmhjn786&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Anshmhjn786&theme=dark&hide_border=false)<br/>
