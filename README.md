@@ -32,7 +32,7 @@
 ## Network Designing/Diagraming
  <img src="https://skillicons.dev/icons?i=figma,linux" />
 <div style="background-color:#0d1117; padding:16px; border-radius:12px; display:inline-block;">
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" style="margin-right:12px;"/>
   <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="40" />
 </div>
 
