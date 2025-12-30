@@ -31,13 +31,10 @@
 
 ## Network Designing/Diagraming
 <div style="background-color:#0d1117; padding:16px; border-radius:12px; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=figma,linux" />
   <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="40" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="40" />
 </div>
-<img src="https://skillicons.dev/icons?i=figma,canva,drawio,visio,linux" />
-
 
 
 ## AI & Machine Learning Tools
