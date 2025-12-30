@@ -4,7 +4,6 @@
 
 
 ## 🌐 Connect with me
-## Connect with me
 
 <a href="linkedin.com/in/ansh-mahajan-120a3a357">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
@@ -16,7 +15,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
 </a>
 <a href="https://discord.com/users/1421169141397852180">
-  <img src="ht
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" />
+</a>
+
 
 # 💻 Tech Stack:
 
