@@ -36,7 +36,7 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" width="40" />
 </div>
-
+<img src="https://skillicons.dev/icons?i=figma,canva,drawio,visio,linux" />
 
 
 
