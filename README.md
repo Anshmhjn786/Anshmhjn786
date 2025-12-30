@@ -1,13 +1,13 @@
-# 💫 About Me:
+# I'AM ANSH MAHAHAJAN
+##        Undergraduate C.S. Engineer | Python | DS | DATA ANALYST| ML | DL | AI | DB | Flask |
 🔭 I’m currently working on<br>AI/ML projects using Python, DSA practice, and college coursework<br><br>👯 I’m looking to collaborate on<br>Machine learning projects, Python-based applications, and hackathons<br><br>🤝 I’m looking for help with<br>Advanced ML concepts, real-world datasets, and model optimization<br><br>🌱 I’m currently learning<br>Machine Learning, Deep Learning basics, DSA in Python, Git & GitHub<br><br>💬 Ask me about<br>Python, basic ML algorithms, college tech events, and productivity<br><br>⚡ Fun fact<br>I enjoy building skills at 4:30 AM before most people wake up
 
 
-## 🌐 Socials:
-## Connect with me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/ansh-mahajan-120a3a357)
-[![Gmail](https://skillicons.dev/icons?i=Gmail)](mailto:anshmhjn7860@gmail.com)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1421169141397852180)
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](linkedin.com/in/ansh-mahajan-120a3a357)
+[![Kaggle](https://img.shields.io/badge/-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/anshmahajan112)
+[![Gmail](https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anshmhjn7860@gmail.com)
+[![Discord](https://img.shields.io/badge/-000000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/1421169141397852180)
 
 # 💻 Tech Stack:
 
