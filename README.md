@@ -4,10 +4,19 @@
 
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](linkedin.com/in/ansh-mahajan-120a3a357)
-[![Kaggle](https://img.shields.io/badge/-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/anshmahajan112)
-[![Gmail](https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anshmhjn7860@gmail.com)
-[![Discord](https://img.shields.io/badge/-000000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/1421169141397852180)
+## Connect with me
+
+<a href="linkedin.com/in/ansh-mahajan-120a3a357">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
+<a href="https://www.kaggle.com/anshmahajan112">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" />
+</a>
+<a href="mailto:anshmhjn7860@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
+</a>
+<a href="https://discord.com/users/1421169141397852180">
+  <img src="ht
 
 # 💻 Tech Stack:
 
