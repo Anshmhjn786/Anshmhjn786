@@ -40,7 +40,7 @@
 ## AI & Machine Learning Tools
 <div style="background-color:#0d1117; padding:16px; border-radius:12px; display:inline-block;">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="40" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="40" style="margin-right:12px;"/>
   <img src="https://cdn.simpleicons.org/pandas/150458" width="40" />
 </div>
 
