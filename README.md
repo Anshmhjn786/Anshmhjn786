@@ -30,7 +30,12 @@
 ![Matplotlib](https://skillicons.dev/icons?i=matplotlib)
 
 ## Network Designing/Diagraming
-<img src="https://skillicons.dev/icons?i=figma,canva,drawio,visio,linux" />
+<img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="40" />
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" />
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" />
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="40" />
+
+
 
 ## AI & Machine Learning Tools
 
