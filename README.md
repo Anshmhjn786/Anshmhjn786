@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
 </a>
 <a href="https://discord.com/users/1421169141397852180">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" />
+  < <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" />
 </a>
 
 
