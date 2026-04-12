@@ -1,4 +1,7 @@
 # I'm ANSH MAHAJAN
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+profile!;AI+%7C+ML+%7C+Python+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
+</h3>
 ##         Undergraduate C.S. Engineer | Python | DS | DATA ANALYST| ML | DL | AI | DB | Flask |
 🔭 I’m currently working on AI/ML projects using Python, DSA practice, and college coursework<br><br>👯 I’m looking to collaborate on Machine learning projects, Python-based applications, and hackathons<br><br>🤝 I’m looking for help with Advanced ML concepts, real-world datasets, and model optimization<br><br>🌱 I’m currently learning Machine Learning, Deep Learning basics, DSA in Python, Git & GitHub<br><br>💬 Ask me about Python, basic ML algorithms, college tech events, and productivity<br><br>⚡ Fun fact I enjoy building skills at 4:30 AM before most people wake up
 
