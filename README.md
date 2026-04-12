@@ -1,5 +1,5 @@
 # I'm ANSH MAHAJAN
-<h3 align="center">
+<h3>
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+profile!;AI+%7C+ML+%7C+Python+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
 </h3>
 ##         Undergraduate C.S. Engineer | Python | DS | DATA ANALYST| ML | DL | AI | DB | Flask |
