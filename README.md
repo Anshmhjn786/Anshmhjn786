@@ -45,7 +45,6 @@ class AnshMahajan:
     def __init__(self):
         self.name     = "Ansh Mahajan"
         self.role     = "B.Tech CSE Undergraduate"
-        self.college  = "IIIT Allahabad"
         self.focus    = ["AI", "Machine Learning", "LLMs", "Agentic AI"]
         self.language = "Python"
         self.learning = ["Deep Learning", "DSA", "LLMs",
