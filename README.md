@@ -6,31 +6,56 @@
 
 </div>
 🧑‍💻 About Me
-<table> <tr> <td width="55%">
+<div align="center"> <!-- Terminal-style typing animation --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=7EE787&center=true&vCenter=true&width=640&height=34&lines=%24+whoami;Ansh+Mahajan+-+B.Tech+CSE+%40+IIIT+Allahabad;%24+cat+focus.txt;AI+%E2%80%A2+ML+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI;%24+echo+%24GOAL;Become+an+AI%2FML+Engineer+%F0%9F%9A%80" alt="whoami" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Role-CS%20Undergraduate-0e75b6?style=for-the-badge&logo=graduationcap&logoColor=white" /> <img src="https://img.shields.io/badge/College-IIIT%20Allahabad-8957e5?style=for-the-badge&logo=academia&logoColor=white" /> <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-ff6b6b?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<br/><br/>
+
+👇 Click a card to explore 👇
+
+</div> <details open> <summary><b>🐍 &nbsp;Who I am (as code)</b></summary>
 python
 class AnshMahajan:
 
     def __init__(self):
-        self.name      = "Ansh Mahajan"
-        self.role      = "B.Tech CSE Undergraduate"
-        self.college   = "IIIT Allahabad"
-        self.focus     = ["AI", "Machine Learning",
-                          "LLMs", "Agentic AI"]
-        self.language  = "Python"
-        self.learning  = ["Deep Learning", "DSA", "LLMs",
-                          "Computer Vision", "Git & GitHub"]
-        self.goal      = "Become an AI/ML Engineer"
+        self.name     = "Ansh Mahajan"
+        self.role     = "B.Tech CSE Undergraduate"
+        self.college  = "IIIT Allahabad"
+        self.focus    = ["AI", "Machine Learning", "LLMs", "Agentic AI"]
+        self.language = "Python"
+        self.learning = ["Deep Learning", "DSA", "LLMs",
+                         "Computer Vision", "Git & GitHub"]
+        self.goal     = "Become an AI/ML Engineer"
 
     def say_hi(self):
         print("Let's build something interesting 🚀")
-</td> <td width="45%">
-🎓 B.Tech in Computer Science (AI/ML) @ IIIT Allahabad
-🔭 Currently building LLM / RAG / Agent projects
-🌱 Learning Deep Learning, CV & DSA
-🤖 Interested in Robotics + AI
-💬 Ask me about Python, ML, GenAI
-⚡ Fun fact: I turn "what if?" into repos
-</td> </tr> </table>
+</details> <details> <summary><b>🎓 &nbsp;Education</b></summary> <br/>
+🏫 B.Tech in Computer Science & Engineering at IIIT Allahabad
+🧠 Specializing in Artificial Intelligence & Machine Learning
+🤖 Hands-on training in automation and robotics
+</details> <details> <summary><b>🔭 &nbsp;What I'm building</b></summary> <br/>
+🧪 LLM / RAG / Agent projects for my final-year work
+🌐 A personal portfolio website
+🤖 Side explorations in robotics + AI
+</details> <details> <summary><b>🌱 &nbsp;What I'm learning</b></summary> <br/>
+🔥 Deep Learning and neural network internals
+👁️ Computer Vision with OpenCV
+📈 DSA for problem solving
+🔧 Git & GitHub workflows
+</details> <details> <summary><b>💬 &nbsp;Ask me about</b></summary> <br/> <div align="center">
+
+<a href="https://github.com/Anshmhjn786?tab=repositories&q=&language=python"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a> <a href="https://github.com/Anshmhjn786?tab=repositories&q=ml"><img src="https://img.shields.io/badge/Machine%20Learning-ff6b6b?style=flat-square&logo=scikitlearn&logoColor=white" /></a> <a href="https://github.com/Anshmhjn786?tab=repositories&q=llm"><img src="https://img.shields.io/badge/LLMs-8957e5?style=flat-square&logo=openai&logoColor=white" /></a> <a href="https://github.com/Anshmhjn786?tab=repositories&q=agent"><img src="https://img.shields.io/badge/Agentic%20AI-00b894?style=flat-square&logo=probot&logoColor=white" /></a> <a href="https://github.com/Anshmhjn786?tab=repositories&q=opencv"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /></a>
+
+<sub>Each badge opens a filtered list of my repos 🔎</sub>
+
+</div> </details> <details> <summary><b>⚡ &nbsp;Fun fact</b></summary> <br/>
+
+I turn "what if?" into repos. 😄
+
+</details>
 🛠️ Tech Stack
 <div align="center">
 
