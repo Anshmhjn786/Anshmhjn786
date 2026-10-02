@@ -161,7 +161,7 @@ I turn **"what if?"** into repos. 😄
 
 ### 🎮 Player Status
 
-<img src="./assets/rpg-status.svg" alt="Animated RPG-style player status" width="100%" />
+<img src="./assets/rpg-status.gif" alt="Animated RPG-style player status" width="100%" />
 
 ---
 
