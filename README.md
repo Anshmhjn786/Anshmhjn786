@@ -125,43 +125,40 @@ class AnshMahajan:
 
 <div align="center">
 
+<div align="center">
+
 ## 🟢 Contribution Command Center
 
-*Explore real activity directly on GitHub.*
+*Your development activity, one click away.*
 
-<br/>
-
+<table>
+<tr>
+<td align="center" width="25%">
 <a href="https://github.com/Anshmhjn786/commits">
-<strong>💻 CODE ACTIVITY</strong>
-<br/>
-View commit history →
+💻<br/><strong>CODE</strong><br/>Commit History →
 </a>
-
-&nbsp;&nbsp;&nbsp; ◆ &nbsp;&nbsp;&nbsp;
-
+</td>
+<td align="center" width="25%">
 <a href="https://github.com/Anshmhjn786/pulls">
-<strong>🔀 CONTRIBUTIONS</strong>
-<br/>
-View pull requests →
+🔀<br/><strong>CONTRIBUTIONS</strong><br/>Pull Requests →
 </a>
-
-<br/><br/>
-
+</td>
+<td align="center" width="25%">
 <a href="https://github.com/Anshmhjn786?tab=repositories">
-<strong>🚀 PROJECTS</strong>
-<br/>
-Explore repositories →
+🚀<br/><strong>PROJECTS</strong><br/>Explore Repos →
 </a>
-
-&nbsp;&nbsp;&nbsp; ◆ &nbsp;&nbsp;&nbsp;
-
+</td>
+<td align="center" width="25%">
 <a href="https://github.com/Anshmhjn786?tab=followers">
-<strong>👥 NETWORK</strong>
-<br/>
-View followers →
+👥<br/><strong>NETWORK</strong><br/>Followers →
 </a>
+</td>
+</tr>
+</table>
 
 </div>
+
+---
 
 ---
 
