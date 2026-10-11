@@ -1,239 +1,484 @@
 <!-- ========================================================= -->
 <!--                    ANSH MAHAJAN PROFILE                   -->
-<!--              AI/ML • PYTHON • SOFTWARE PROJECTS           -->
+<!--              HIGH CONTRAST • INTERACTIVE • AI/ML          -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,45:00E5FF,75:7C3AED,100:A3FF12&height=230&section=header&text=ANSH%20MAHAJAN&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20ENGINEER%20IN%20PROGRESS%20%E2%80%A2%20PYTHON%20DEVELOPER&descAlignY=60&descSize=18" width="100%" alt="Ansh Mahajan profile banner"/>
+<!-- ======================= HERO ======================= -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,45:00E5FF,75:7C3AED,100:A3FF12&height=230&section=header&text=ANSH%20MAHAJAN&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20ENGINEER%20IN%20PROGRESS%20%E2%80%A2%20PYTHON%20DEVELOPER%20%E2%80%A2%20BUILDER&descAlignY=60&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2200&pause=650&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+Ansh.exe...;%3E+Machine+Learning;%3E+Building+AI+%26+LLM+Projects;%3E+Exploring+Agentic+AI;%3E+Turning+Ideas+Into+Code" alt="Animated introduction"/>
+<br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2200&pause=650&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+Ansh.exe...;%3E+Machine+Learning+%F0%9F%A7%A0;%3E+Building+AI+%26+LLM+Projects+%F0%9F%A4%96;%3E+Exploring+Agentic+AI+%F0%9F%9A%80;%3E+Turning+Ideas+Into+Code+%E2%9A%A1;%3E+Always+Learning+New+Things+%F0%9F%8C%B1" />
 
+<br><br>
 
+<!-- ======================= STATUS BADGES ======================= -->
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-A3FF12?style=for-the-badge&labelColor=05070D" alt="Status: active"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-00E5FF?style=for-the-badge&labelColor=05070D" alt="Focus: AI and ML"/>
-<img src="https://img.shields.io/badge/BUILDING-LLMs-7C3AED?style=for-the-badge&labelColor=05070D" alt="Building LLM projects"/>
-<img src="https://img.shields.io/badge/LEARNING-AGENTIC%20AI-FF00AA?style=for-the-badge&labelColor=05070D" alt="Learning Agentic AI"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-A3FF12?style=for-the-badge&labelColor=05070D"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-00E5FF?style=for-the-badge&labelColor=05070D"/>
+<img src="https://img.shields.io/badge/BUILDING-LLMs-7C3AED?style=for-the-badge&labelColor=05070D"/>
+<img src="https://img.shields.io/badge/LEARNING-AGENTIC%20AI-FF00AA?style=for-the-badge&labelColor=05070D"/>
 
+<br><br>
 
+<!-- ======================= NAVIGATION ======================= -->
 
+<a href="#-about-me">
+<img src="https://img.shields.io/badge/🧑‍💻_ABOUT-00E5FF?style=for-the-badge&labelColor=05070D"/>
+</a>
 
-<a href="#-about-me">ABOUT</a> ·
-<a href="#-tech-stack">TECH STACK</a> ·
-<a href="#-featured-projects">PROJECTS</a> ·
-<a href="#-github-activity-center">ACTIVITY</a> ·
-<a href="#-lets-connect">CONNECT</a>
+<a href="#-tech-stack">
+<img src="https://img.shields.io/badge/⚙️_STACK-7C3AED?style=for-the-badge&labelColor=05070D"/>
+</a>
 
+<a href="#-featured-projects">
+<img src="https://img.shields.io/badge/🚀_PROJECTS-FF00AA?style=for-the-badge&labelColor=05070D"/>
+</a>
 
+<a href="#-github-activity-center">
+<img src="https://img.shields.io/badge/📊_ACTIVITY-A3FF12?style=for-the-badge&labelColor=05070D"/>
+</a>
+
+<a href="#-lets-connect">
+<img src="https://img.shields.io/badge/💬_CONNECT-00E5FF?style=for-the-badge&labelColor=05070D"/>
+</a>
+
+<br><br>
+
+<!-- ======================= PROFILE COUNTERS ======================= -->
 
 <a href="https://github.com/Anshmhjn786">
-<img src="https://komarev.com/ghpvc/?username=Anshmhjn786&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge&labelColor=05070D" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Anshmhjn786&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge&labelColor=05070D"/>
 </a>
+
 <a href="https://github.com/Anshmhjn786?tab=followers">
-<img src="https://img.shields.io/github/followers/Anshmhjn786?label=FOLLOWERS&style=for-the-badge&logo=github&color=7C3AED&labelColor=05070D" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/Anshmhjn786?label=FOLLOWERS&style=for-the-badge&logo=github&color=7C3AED&labelColor=05070D"/>
+</a>
+
+<a href="https://github.com/Anshmhjn786?tab=repositories">
+<img src="https://img.shields.io/github/stars/Anshmhjn786?label=STARS&style=for-the-badge&logo=starship&color=A3FF12&labelColor=05070D"/>
 </a>
 
 </div>
 
-🧑‍💻 About Me
+---
+
+# 🧑‍💻 About Me
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2400&pause=700&color=A3FF12&center=true&vCenter=true&width=780&height=40&lines=%24+whoami;%3E+Ansh+Mahajan;%24+cat+focus.txt;%3E+AI+%E2%80%A2+ML+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI;%3E+Become+an+AI%2FML+Engineer" alt="About me terminal animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2400&pause=700&color=A3FF12&center=true&vCenter=true&width=780&height=40&lines=%24+whoami;%3E+Ansh+Mahajan;%24+cat+focus.txt;%3E+AI+%E2%80%A2+ML+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI;%24+echo+%24GOAL;%3E+Become+an+AI%2FML+Engineer+%F0%9F%9A%80"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🎓_ROLE-CS_UNDERGRADUATE-00E5FF?style=for-the-badge&labelColor=05070D"/>
+<img src="https://img.shields.io/badge/🏫_COLLEGE-IIIT_ALLAHABAD-7C3AED?style=for-the-badge&labelColor=05070D"/>
+<img src="https://img.shields.io/badge/🧠_FOCUS-AI%20%2F%20ML-FF00AA?style=for-the-badge&labelColor=05070D"/>
+<img src="https://img.shields.io/badge/🐍_LANGUAGE-PYTHON-A3FF12?style=for-the-badge&labelColor=05070D"/>
 
 </div>
 
-I'm Ansh Mahajan, a Computer Science and Engineering undergraduate interested in artificial intelligence, machine learning, and intelligent software systems. I enjoy building practical projects, learning new technologies, and understanding how AI can help solve real-world problems.
-- 🧠 Interests: Machine Learning, Deep Learning, LLMs, Agentic AI
-- 🐍 Primary language: Python
-- 🔬 Exploring: Computer Vision, model evaluation, AI agents
-- 🛠️ Approach: Learn, build, test, and improve
-- 🎯 Goal: Become an AI/ML Engineer
-<details>
+<br>
+
+<details open>
 <summary><b>🐍 Who I am, as code</b></summary>
 
+```python
 class AnshMahajan:
+
     def __init__(self):
+
         self.name = "Ansh Mahajan"
+
         self.role = "B.Tech CSE Undergraduate"
+
         self.focus = [
-            "Artificial Intelligence",
+            "AI",
             "Machine Learning",
             "LLMs",
-            "Agentic AI",
+            "Agentic AI"
         ]
+
         self.language = "Python"
+
+        self.learning = [
+            "Deep Learning",
+            "DSA",
+            "LLMs",
+            "Computer Vision",
+            "Git & GitHub"
+        ]
+
         self.goal = "Become an AI/ML Engineer"
 
     def say_hi(self):
+
         print("Let's build something interesting 🚀")
+```
+
+<!-- ========================================================= -->
+<!--              INTERACTIVE CONTRIBUTION CENTER              -->
+<!-- ========================================================= -->
 
 
-me = AnshMahajan()
-</details>
-
-⚙️ Tech Stack
 <div align="center">
 
-Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js" alt="Python, C++, Java and JavaScript"/>
+## 🟢 Contribution Command Center
 
-AI, Machine Learning and Computer Vision
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow and OpenCV"/>
-
-Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Git, GitHub, VS Code, Linux and Docker"/>
-
-Web Development
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,fastapi" alt="React, Vite, Node.js and FastAPI"/>
-
-</div>
-
-🚀 Featured Projects
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🛡️ Deep Packet Analyzer
-A Python-based tool for offline packet capture analysis and rule-based traffic filtering.
-- Classic PCAP processing
-- Protocol parsing and metadata extraction
-- Network flow tracking
-- Configurable traffic-filtering rules
-<a href="https://github.com/Anshmhjn786/Deep-Packet-Analyser">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&labelColor=05070D" alt="View Deep Packet Analyzer"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-🧠 Cognito AI
-A deepfake analysis and digital media forensics project focused on assessing image and video authenticity.
-- Image and video analysis
-- AI-assisted authenticity assessment
-- Forensic-focused application design
-<a href="https://github.com/Anshmhjn786?tab=repositories">
-<img src="https://img.shields.io/badge/FIND%20PROJECT-7C3AED?style=for-the-badge&labelColor=05070D" alt="Find Cognito AI in repositories"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🏥 Viora
-An AI-oriented healthcare decision-support project exploring intelligent workflows and modular application design.
-<a href="https://github.com/Anshmhjn786?tab=repositories">
-<img src="https://img.shields.io/badge/FIND%20PROJECT-FF00AA?style=for-the-badge&labelColor=05070D" alt="Find Viora in repositories"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-🎬 Movie Recommendation System
-A content-based movie recommendation project using Python and data-processing libraries.
-- Movie metadata processing
-- Similarity-based recommendations
-- Pandas and NumPy
-<a href="https://github.com/Anshmhjn786?tab=repositories">
-<img src="https://img.shields.io/badge/FIND%20PROJECT-A3FF12?style=for-the-badge&labelColor=05070D" alt="Find Movie Recommendation System in repositories"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-🟢 GitHub Activity Center
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+Contribution+center+online;%3E+Explore+repositories;%3E+Review+project+history;%3E+Keep+building" alt="GitHub activity animation"/>
+`REAL ACTIVITY` · `LIVE GITHUB LINKS`
 
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://github.com/Anshmhjn786/Deep-Packet-Analyser/commits/main">
-<img src="https://img.shields.io/badge/CODE-ACTIVITY-00E5FF?style=for-the-badge&labelColor=05070D" alt="Code activity"/>
-<br/><br/><b>💻 CODE ACTIVITY</b><br/>Project commits ↗
-</a>
+<a href="https://github.com/Anshmhjn786/commits">💻<br><b>CODE</b><br>Commits ↗</a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Anshmhjn786?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-7C3AED?style=for-the-badge&labelColor=05070D" alt="Explore projects"/>
-<br/><br/><b>🚀 PROJECTS</b><br/>Repositories ↗
-</a>
+<a href="https://github.com/Anshmhjn786/pulls">🔀<br><b>CONTRIBUTIONS</b><br>Pulls ↗</a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Anshmhjn786/pulls">
-<img src="https://img.shields.io/badge/PULL-REQUESTS-A3FF12?style=for-the-badge&labelColor=05070D" alt="Pull requests"/>
-<br/><br/><b>🔀 CONTRIBUTIONS</b><br/>Pull requests ↗
-</a>
+<a href="https://github.com/Anshmhjn786?tab=repositories">🚀<br><b>PROJECTS</b><br>Repos ↗</a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Anshmhjn786?tab=followers">
-<img src="https://img.shields.io/badge/GITHUB-NETWORK-FF00AA?style=for-the-badge&labelColor=05070D" alt="GitHub network"/>
-<br/><br/><b>👥 NETWORK</b><br/>Followers ↗
-</a>
+<a href="https://github.com/Anshmhjn786?tab=followers">👥<br><b>NETWORK</b><br>Followers ↗</a>
 </td>
 </tr>
 </table>
 
 </div>
 
-🟩 Contribution Heatmap
+
+---
+
+---
+
+
+
+---
+
+# 🗓️ Interactive Contribution Table
+
+<div align="center">
+
+### 2026 • Current Development Cycle
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+
+<tr>
+<th>🗓️ Period</th>
+<th>🟢 Activity</th>
+<th>💻 Commits</th>
+<th>🔥 Intensity</th>
+<th>🎯 Focus</th>
+<th>🚦 Status</th>
+</tr>
+
+<tr>
+<td><b>Q1</b></td>
+<td>🟢🟢🟢</td>
+<td>
+
+<a href="https://github.com/Anshmhjn786/commits">
+<img src="https://img.shields.io/github/commit-activity/y/Anshmhjn786?style=flat-square&color=00E5FF&label=VIEW"/>
+</a>
+
+</td>
+<td>██████░░░░</td>
+<td>🐍 Python / ML</td>
+<td>🟢 ACTIVE</td>
+</tr>
+
+<tr>
+<td><b>Q2</b></td>
+<td>🟢🟢🟢🟢</td>
+<td>
+
+<a href="https://github.com/Anshmhjn786/commits">
+<img src="https://img.shields.io/github/commit-activity/y/Anshmhjn786?style=flat-square&color=7C3AED&label=VIEW"/>
+</a>
+
+</td>
+<td>███████░░░</td>
+<td>🤖 AI / Projects</td>
+<td>🔥 BUILDING</td>
+</tr>
+
+<tr>
+<td><b>Q3</b></td>
+<td>🟢🟢🟢🟢🟢</td>
+<td>
+
+<a href="https://github.com/Anshmhjn786/commits">
+<img src="https://img.shields.io/github/commit-activity/y/Anshmhjn786?style=flat-square&color=FF00AA&label=VIEW"/>
+</a>
+
+</td>
+<td>████████░░</td>
+<td>🧠 LLM / Agents</td>
+<td>🚀 ACTIVE</td>
+</tr>
+
+<tr>
+<td><b>Q4</b></td>
+<td>🟢🟢🟢🟢🟢</td>
+<td>
+
+<a href="https://github.com/Anshmhjn786/commits">
+<img src="https://img.shields.io/github/commit-activity/y/Anshmhjn786?style=flat-square&color=A3FF12&label=LIVE"/>
+</a>
+
+</td>
+<td>█████████░</td>
+<td>🚀 AI Products</td>
+<td>⚡ CURRENT</td>
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Click any activity card to open the live GitHub history.**
+
+</div>
+
+---
+
+# 🟩 Contribution Heatmap
+
 <div align="center">
 
 <a href="https://github.com/Anshmhjn786">
-<img src="https://ghchart.rshah.org/00E5FF/Anshmhjn786" width="100%" alt="GitHub contribution calendar"/>
+
+<img src="https://ghchart.rshah.org/00E5FF/Anshmhjn786" width="100%"/>
+
 </a>
 
 </div>
 
-⚡ Contribution Streak
+<br>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=700&color=A3FF12&center=true&vCenter=true&width=700&lines=%3E+Consistency+is+the+real+superpower;%3E+One+commit+at+a+time" alt="Contribution streak message"/>
+<table>
 
+<tr>
 
+<td align="center">⬛<br>Less</td>
+<td align="center">🟦<br>Low</td>
+<td align="center">🟪<br>Medium</td>
+<td align="center">🟩<br>High</td>
+<td align="center">🟢<br>Very High</td>
 
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# ⚡ Interactive Streak Center
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=700&color=A3FF12&center=true&vCenter=true&width=700&lines=%3E+STREAK+ENGINE+ONLINE;%3E+Consistency+is+the+real+superpower;%3E+One+commit+at+a+time+%F0%9F%9A%80" />
+
+<br><br>
 
 <a href="https://github.com/Anshmhjn786">
-<img src="https://streak-stats.demolab.com?user=Anshmhjn786&theme=dark&hide_border=true&background=05070D&ring=00E5FF&fire=FF00AA&currStreakLabel=A3FF12&sideLabels=00E5FF&dates=FFFFFF" width="90%" alt="GitHub contribution streak"/>
+
+<img src="https://streak-stats.demolab.com?user=Anshmhjn786&theme=dark&hide_border=true&background=05070D&ring=00E5FF&fire=FF00AA&currStreakLabel=A3FF12&sideLabels=00E5FF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=A3FF12" width="90%"/>
+
 </a>
 
 </div>
 
-📈 Commit Activity
+---
+
+# 🔥 Streak Dashboard
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🔥 CURRENT
+
+<img src="https://img.shields.io/badge/STREAK-LIVE-FF00AA?style=for-the-badge&labelColor=05070D"/>
+
+<br><br>
+
+**Keep the chain alive**
+
+</td>
+
+<td align="center" width="33%">
+
+### 🏆 LONGEST
+
+<img src="https://img.shields.io/badge/RECORD-TRACKING-A3FF12?style=for-the-badge&labelColor=05070D"/>
+
+<br><br>
+
+**Personal best**
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 ACTIVITY
+
+<img src="https://img.shields.io/badge/CODING-ACTIVE-00E5FF?style=for-the-badge&labelColor=05070D"/>
+
+<br><br>
+
+**Building every day**
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📈 Live Commit Activity
+
 <div align="center">
 
 <a href="https://github.com/Anshmhjn786">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshmhjn786&bg_color=05070D&color=00E5FF&line=7C3AED&point=A3FF12&area=true&hide_border=true&custom_title=COMMIT%20ACTIVITY" width="100%" alt="GitHub commit activity graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshmhjn786&bg_color=05070D&color=00E5FF&line=7C3AED&point=A3FF12&area=true&hide_border=true&custom_title=LIVE%20COMMIT%20ACTIVITY" width="100%"/>
+
 </a>
 
 </div>
 
-📊 GitHub Statistics
+---
+
+# 📊 Contribution Statistics
+
 <div align="center">
 
-<a href="https://github.com/Anshmhjn786">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anshmhjn786&show_icons=true&include_all_commits=true&hide_border=true&bg_color=05070D&title_color=00E5FF&icon_color=A3FF12&text_color=FFFFFF&custom_title=GitHub%20Statistics" alt="GitHub statistics"/>
+<table>
+
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/Anshmhjn786?tab=overview">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anshmhjn786&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=05070D&title_color=00E5FF&icon_color=A3FF12&text_color=FFFFFF&custom_title=Contribution%20Statistics"/>
+
 </a>
+
+</td>
+
+<td align="center">
+
 <a href="https://github.com/Anshmhjn786?tab=repositories">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshmhjn786&layout=compact&langs_count=8&hide_border=true&bg_color=05070D&title_color=7C3AED&text_color=FFFFFF&custom_title=Languages" alt="Most used programming languages"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshmhjn786&layout=compact&langs_count=8&hide_border=true&bg_color=05070D&title_color=7C3AED&text_color=FFFFFF&custom_title=Codebase%20Distribution"/>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🧬 Development Activity Matrix
+
+<div align="center">
+
+<table>
+
+<tr>
+<th>Activity</th>
+<th>Level</th>
+<th>Live Link</th>
+</tr>
+
+<tr>
+<td>💻 Commits</td>
+<td>🟢 ACTIVE</td>
+<td><a href="https://github.com/Anshmhjn786/commits">OPEN</a></td>
+</tr>
+
+<tr>
+<td>🔥 Contribution Streak</td>
+<td>🟢 TRACKING</td>
+<td><a href="https://github.com/Anshmhjn786">OPEN</a></td>
+</tr>
+
+<tr>
+<td>🗓️ Contribution Calendar</td>
+<td>🟢 LIVE</td>
+<td><a href="https://github.com/Anshmhjn786">OPEN</a></td>
+</tr>
+
+<tr>
+<td>🚀 Projects</td>
+<td>🟢 BUILDING</td>
+<td><a href="https://github.com/Anshmhjn786?tab=repositories">OPEN</a></td>
+</tr>
+
+<tr>
+<td>🔀 Pull Requests</td>
+<td>🟣 TRACKING</td>
+<td><a href="https://github.com/Anshmhjn786/pulls">OPEN</a></td>
+</tr>
+
+<tr>
+<td>🐛 Issues</td>
+<td>🔴 TRACKING</td>
+<td><a href="https://github.com/Anshmhjn786/issues">OPEN</a></td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<a href="https://github.com/Anshmhjn786">
+
+<img src="https://raw.githubusercontent.com/Anshmhjn786/Anshmhjn786/output/github-contribution-grid-snake.svg" width="100%"/>
+
 </a>
 
 </div>
 
-🎯 Current Focus
+---
+
 <div align="center">
 
-Area	Focus
-🐍 Python	Writing maintainable applications
-🧠 Machine Learning	Model development and evaluation
-🤖 LLMs	Exploring language-model applications
-🔗 Agentic AI	Tool-using agents and workflows
-🛠️ Projects	Building and documenting practical systems
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=CODE+%E2%86%92+COMMIT+%E2%86%92+LEARN+%E2%86%92+REPEAT;%F0%9F%9F%A2+Contribution+system+online;%F0%9F%94%A5+Keep+the+streak+alive;%F0%9F%9A%80+Keep+building"/>
 
 </div>
