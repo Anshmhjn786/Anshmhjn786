@@ -123,40 +123,32 @@ class AnshMahajan:
 <!--              INTERACTIVE CONTRIBUTION CENTER              -->
 <!-- ========================================================= -->
 
-<div align="center">
 
 <div align="center">
 
 ## 🟢 Contribution Command Center
 
-*Your development activity, one click away.*
+`REAL ACTIVITY` · `LIVE GITHUB LINKS`
 
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://github.com/Anshmhjn786/commits">
-💻<br/><strong>CODE</strong><br/>Commit History →
-</a>
+<a href="https://github.com/Anshmhjn786/commits">💻<br><b>CODE</b><br>Commits ↗</a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Anshmhjn786/pulls">
-🔀<br/><strong>CONTRIBUTIONS</strong><br/>Pull Requests →
-</a>
+<a href="https://github.com/Anshmhjn786/pulls">🔀<br><b>CONTRIBUTIONS</b><br>Pulls ↗</a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Anshmhjn786?tab=repositories">
-🚀<br/><strong>PROJECTS</strong><br/>Explore Repos →
-</a>
+<a href="https://github.com/Anshmhjn786?tab=repositories">🚀<br><b>PROJECTS</b><br>Repos ↗</a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Anshmhjn786?tab=followers">
-👥<br/><strong>NETWORK</strong><br/>Followers →
-</a>
+<a href="https://github.com/Anshmhjn786?tab=followers">👥<br><b>NETWORK</b><br>Followers ↗</a>
 </td>
 </tr>
 </table>
 
 </div>
+
 
 ---
 
