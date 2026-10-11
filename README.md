@@ -127,75 +127,47 @@ class AnshMahajan:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+Loading+contribution+data...;%3E+Scanning+commit+history...;%3E+Calculating+streak...;%3E+Developer+activity%3A+ONLINE+%F0%9F%9F%A2" />
-
-</div>
-
-<br>
-
-<!-- ================= LIVE CONTRIBUTION CARDS ================= -->
-
-<div align="center">
-
 <table>
 <tr>
-
 <td align="center" width="25%">
-
 <a href="https://github.com/Anshmhjn786">
-
-<img src="https://img.shields.io/github/commit-activity/y/Anshmhjn786?style=for-the-badge&label=YEARLY%20COMMITS&color=00E5FF&labelColor=05070D"/>
-
+<img src="https://img.shields.io/badge/CODE-EXPLORE-00E5FF?style=for-the-badge&labelColor=05070D" alt="Explore code"/>
 </a>
-
-<br><br>
-
+<br/><br/>
 <b>💻 CODE ACTIVITY</b>
-
+<br/>
+<a href="https://github.com/Anshmhjn786/commits">View commit history</a>
 </td>
 
 <td align="center" width="25%">
-
-<a href="https://github.com/Anshmhjn786">
-
-<img src="https://img.shields.io/github/issues-pr-closed/Anshmhjn786?style=for-the-badge&label=MERGED%20PRS&color=7C3AED&labelColor=05070D"/>
-
+<a href="https://github.com/Anshmhjn786/pulls">
+<img src="https://img.shields.io/badge/PULL_REQUESTS-VIEW-7C3AED?style=for-the-badge&labelColor=05070D" alt="View pull requests"/>
 </a>
-
-<br><br>
-
+<br/><br/>
 <b>🔀 CONTRIBUTIONS</b>
-
+<br/>
+<a href="https://github.com/Anshmhjn786/pulls">View pull requests</a>
 </td>
 
 <td align="center" width="25%">
-
-<a href="https://github.com/Anshmhjn786">
-
-<img src="https://img.shields.io/github/stars/Anshmhjn786?style=for-the-badge&label=STARS&color=A3FF12&labelColor=05070D"/>
-
+<a href="https://github.com/Anshmhjn786?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-A3FF12?style=for-the-badge&labelColor=05070D" alt="Explore projects"/>
 </a>
-
-<br><br>
-
-<b>⭐ COMMUNITY</b>
-
+<br/><br/>
+<b>⭐ PROJECTS</b>
+<br/>
+<a href="https://github.com/Anshmhjn786?tab=repositories">Browse repositories</a>
 </td>
 
 <td align="center" width="25%">
-
-<a href="https://github.com/Anshmhjn786">
-
-<img src="https://img.shields.io/github/followers/Anshmhjn786?style=for-the-badge&label=FOLLOWERS&color=FF00AA&labelColor=05070D"/>
-
+<a href="https://github.com/Anshmhjn786?tab=followers">
+<img src="https://img.shields.io/badge/PROFILE-CONNECT-FF00AA?style=for-the-badge&labelColor=05070D" alt="Connect on GitHub"/>
 </a>
-
-<br><br>
-
+<br/><br/>
 <b>👥 NETWORK</b>
-
+<br/>
+<a href="https://github.com/Anshmhjn786?tab=followers">View followers</a>
 </td>
-
 </tr>
 </table>
 
