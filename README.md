@@ -124,30 +124,48 @@ class AnshMahajan:
 <!-- ========================================================= -->
 
 
+
 <div align="center">
 
 ## 🟢 Contribution Command Center
 
-`REAL ACTIVITY` · `LIVE GITHUB LINKS`
+*Explore your GitHub activity*
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="25%">
-<a href="https://github.com/Anshmhjn786/commits">💻<br><b>CODE</b><br>Commits ↗</a>
+
+### 💻 CODE ACTIVITY
+
+[View Commits ↗](https://github.com/Anshmhjn786/commits)
+
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Anshmhjn786/pulls">🔀<br><b>CONTRIBUTIONS</b><br>Pulls ↗</a>
+
+### 🔀 CONTRIBUTIONS
+
+[Pull Requests ↗](https://github.com/Anshmhjn786/pulls)
+
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Anshmhjn786?tab=repositories">🚀<br><b>PROJECTS</b><br>Repos ↗</a>
+
+### 🚀 PROJECTS
+
+[Explore Repos ↗](https://github.com/Anshmhjn786?tab=repositories)
+
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Anshmhjn786?tab=followers">👥<br><b>NETWORK</b><br>Followers ↗</a>
+
+### 👥 NETWORK
+
+[View Followers ↗](https://github.com/Anshmhjn786?tab=followers)
+
 </td>
 </tr>
 </table>
 
 </div>
+
 
 
 ---
