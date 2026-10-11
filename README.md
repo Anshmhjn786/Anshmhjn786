@@ -123,55 +123,49 @@ class AnshMahajan:
 <!--              INTERACTIVE CONTRIBUTION CENTER              -->
 <!-- ========================================================= -->
 
-# 🟢 Contribution Command Center
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://github.com/Anshmhjn786">
-<img src="https://img.shields.io/badge/CODE-EXPLORE-00E5FF?style=for-the-badge&labelColor=05070D" alt="Explore code"/>
-</a>
-<br/><br/>
-<b>💻 CODE ACTIVITY</b>
-<br/>
-<a href="https://github.com/Anshmhjn786/commits">View commit history</a>
-</td>
+## 🟢 Contribution Command Center
 
-<td align="center" width="25%">
+*Explore real activity directly on GitHub.*
+
+<br/>
+
+<a href="https://github.com/Anshmhjn786/commits">
+<strong>💻 CODE ACTIVITY</strong>
+<br/>
+View commit history →
+</a>
+
+&nbsp;&nbsp;&nbsp; ◆ &nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/Anshmhjn786/pulls">
-<img src="https://img.shields.io/badge/PULL_REQUESTS-VIEW-7C3AED?style=for-the-badge&labelColor=05070D" alt="View pull requests"/>
-</a>
-<br/><br/>
-<b>🔀 CONTRIBUTIONS</b>
+<strong>🔀 CONTRIBUTIONS</strong>
 <br/>
-<a href="https://github.com/Anshmhjn786/pulls">View pull requests</a>
-</td>
+View pull requests →
+</a>
 
-<td align="center" width="25%">
+<br/><br/>
+
 <a href="https://github.com/Anshmhjn786?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-A3FF12?style=for-the-badge&labelColor=05070D" alt="Explore projects"/>
-</a>
-<br/><br/>
-<b>⭐ PROJECTS</b>
+<strong>🚀 PROJECTS</strong>
 <br/>
-<a href="https://github.com/Anshmhjn786?tab=repositories">Browse repositories</a>
-</td>
+Explore repositories →
+</a>
 
-<td align="center" width="25%">
+&nbsp;&nbsp;&nbsp; ◆ &nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/Anshmhjn786?tab=followers">
-<img src="https://img.shields.io/badge/PROFILE-CONNECT-FF00AA?style=for-the-badge&labelColor=05070D" alt="Connect on GitHub"/>
-</a>
-<br/><br/>
-<b>👥 NETWORK</b>
+<strong>👥 NETWORK</strong>
 <br/>
-<a href="https://github.com/Anshmhjn786?tab=followers">View followers</a>
-</td>
-</tr>
-</table>
+View followers →
+</a>
 
 </div>
+
+---
+
+
 
 ---
 
