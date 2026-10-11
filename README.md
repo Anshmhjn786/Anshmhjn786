@@ -130,98 +130,66 @@ class AnshMahajan:
 
 <div align="center">
 
-## 🟢 CONTRIBUTION COMMAND CENTER
 
-`CODE` &nbsp;·&nbsp; `BUILD` &nbsp;·&nbsp; `CONNECT`
+<div align="center">
+
+## 🟢 Contribution Command Center
+
+### 2026 · Development Dashboard
 
 <table>
 <tr>
-<td align="center" width="25%" valign="middle">
+<th>🗂️ CATEGORY</th>
+<th>🟢 ACTIVITY</th>
+<th>🔗 EXPLORE</th>
+<th>⚡ FOCUS</th>
+<th>🎯 PURPOSE</th>
+<th>🚦 STATUS</th>
+</tr>
 
-<br/>
+<tr>
+<td><b>Q1</b></td>
+<td>💻 Code</td>
+<td><a href="https://github.com/Anshmhjn786/Deep-Packet-Analyser/commits/main">Commits ↗</a></td>
+<td>🐍 Python / ML</td>
+<td>Code changes</td>
+<td>🟢 TRACK</td>
+</tr>
 
-<a href="https://github.com/Anshmhjn786/Deep-Packet-Analyser/commits/main">
-<img src="https://img.shields.io/badge/01-CODE-00E5FF?style=for-the-badge&labelColor=10141D" alt="Code activity"/>
-</a>
+<tr>
+<td><b>Q2</b></td>
+<td>🔀 Contributions</td>
+<td><a href="https://github.com/Anshmhjn786/pulls">Pull Requests ↗</a></td>
+<td>🤖 AI / Projects</td>
+<td>Code collaboration</td>
+<td>🟣 EXPLORE</td>
+</tr>
 
-<br/><br/>
+<tr>
+<td><b>Q3</b></td>
+<td>🚀 Projects</td>
+<td><a href="https://github.com/Anshmhjn786?tab=repositories">Repositories ↗</a></td>
+<td>🧠 LLM / Agents</td>
+<td>Project development</td>
+<td>🟢 BUILD</td>
+</tr>
 
-<b>CODE ACTIVITY</b>
-
-<sub>Inspect commits</sub>
-
-<br/>
-
-<a href="https://github.com/Anshmhjn786/Deep-Packet-Analyser/commits/main">Explore history ↗</a>
-
-<br/><br/>
-
-</td>
-<td align="center" width="25%" valign="middle">
-
-<br/>
-
-<a href="https://github.com/Anshmhjn786?tab=overview">
-<img src="https://img.shields.io/badge/02-ACTIVITY-7C3AED?style=for-the-badge&labelColor=10141D" alt="GitHub activity"/>
-</a>
-
-<br/><br/>
-
-<b>CONTRIBUTIONS</b>
-
-<sub>Explore your profile</sub>
-
-<br/>
-
-<a href="https://github.com/Anshmhjn786?tab=overview">View activity ↗</a>
-
-<br/><br/>
-
-</td>
-<td align="center" width="25%" valign="middle">
-
-<br/>
-
-<a href="https://github.com/Anshmhjn786?tab=repositories">
-<img src="https://img.shields.io/badge/03-PROJECTS-A3FF12?style=for-the-badge&labelColor=10141D" alt="Projects"/>
-</a>
-
-<br/><br/>
-
-<b>PROJECTS</b>
-
-<sub>Explore my work</sub>
-
-<br/>
-
-<a href="https://github.com/Anshmhjn786?tab=repositories">Browse repos ↗</a>
-
-<br/><br/>
-
-</td>
-<td align="center" width="25%" valign="middle">
-
-<br/>
-
-<a href="https://github.com/Anshmhjn786?tab=followers">
-<img src="https://img.shields.io/badge/04-NETWORK-FF00AA?style=for-the-badge&labelColor=10141D" alt="Network"/>
-</a>
-
-<br/><br/>
-
-<b>NETWORK</b>
-
-<sub>Connect on GitHub</sub>
-
-<br/>
-
-<a href="https://github.com/Anshmhjn786?tab=followers">View followers ↗</a>
-
-<br/><br/>
-
-</td>
+<tr>
+<td><b>Q4</b></td>
+<td>👥 Network</td>
+<td><a href="https://github.com/Anshmhjn786?tab=followers">Followers ↗</a></td>
+<td>🌐 Community</td>
+<td>Connect and share</td>
+<td>⚡ OPEN</td>
 </tr>
 </table>
+
+<br/>
+
+<sub>Explore your real GitHub activity using the links above.</sub>
+
+</div>
+
 
 <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
