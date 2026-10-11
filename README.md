@@ -127,42 +127,108 @@ class AnshMahajan:
 
 <div align="center">
 
-## 🟢 Contribution Command Center
 
-*Explore your GitHub activity*
+<div align="center">
 
-<table width="100%">
+## 🟢 CONTRIBUTION COMMAND CENTER
+
+`CODE` &nbsp;·&nbsp; `BUILD` &nbsp;·&nbsp; `CONNECT`
+
+<table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="middle">
 
-### 💻 CODE ACTIVITY
+<br/>
 
-[View Commits ↗](https://github.com/Anshmhjn786/commits)
+<a href="https://github.com/Anshmhjn786/Deep-Packet-Analyser/commits/main">
+<img src="https://img.shields.io/badge/01-CODE-00E5FF?style=for-the-badge&labelColor=10141D" alt="Code activity"/>
+</a>
+
+<br/><br/>
+
+<b>CODE ACTIVITY</b>
+
+<sub>Inspect commits</sub>
+
+<br/>
+
+<a href="https://github.com/Anshmhjn786/Deep-Packet-Analyser/commits/main">Explore history ↗</a>
+
+<br/><br/>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="middle">
 
-### 🔀 CONTRIBUTIONS
+<br/>
 
-[Pull Requests ↗](https://github.com/Anshmhjn786/pulls)
+<a href="https://github.com/Anshmhjn786?tab=overview">
+<img src="https://img.shields.io/badge/02-ACTIVITY-7C3AED?style=for-the-badge&labelColor=10141D" alt="GitHub activity"/>
+</a>
+
+<br/><br/>
+
+<b>CONTRIBUTIONS</b>
+
+<sub>Explore your profile</sub>
+
+<br/>
+
+<a href="https://github.com/Anshmhjn786?tab=overview">View activity ↗</a>
+
+<br/><br/>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="middle">
 
-### 🚀 PROJECTS
+<br/>
 
-[Explore Repos ↗](https://github.com/Anshmhjn786?tab=repositories)
+<a href="https://github.com/Anshmhjn786?tab=repositories">
+<img src="https://img.shields.io/badge/03-PROJECTS-A3FF12?style=for-the-badge&labelColor=10141D" alt="Projects"/>
+</a>
+
+<br/><br/>
+
+<b>PROJECTS</b>
+
+<sub>Explore my work</sub>
+
+<br/>
+
+<a href="https://github.com/Anshmhjn786?tab=repositories">Browse repos ↗</a>
+
+<br/><br/>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="middle">
 
-### 👥 NETWORK
+<br/>
 
-[View Followers ↗](https://github.com/Anshmhjn786?tab=followers)
+<a href="https://github.com/Anshmhjn786?tab=followers">
+<img src="https://img.shields.io/badge/04-NETWORK-FF00AA?style=for-the-badge&labelColor=10141D" alt="Network"/>
+</a>
+
+<br/><br/>
+
+<b>NETWORK</b>
+
+<sub>Connect on GitHub</sub>
+
+<br/>
+
+<a href="https://github.com/Anshmhjn786?tab=followers">View followers ↗</a>
+
+<br/><br/>
 
 </td>
 </tr>
 </table>
+
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+
+**BUILDING INTELLIGENT SYSTEMS · ONE COMMIT AT A TIME**
+
+</div>
+
 
 </div>
 
